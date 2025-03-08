@@ -6,7 +6,6 @@
 ## Features
 - [x] HTML
 - [x] CSS
-- [x] Bootstrap 4
 - [x] JavaScript
 
 
